@@ -1,5 +1,8 @@
 _repo: Turgenev-in-English-A-Checklist-of-Works-by-and-about-Him_56678
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56678-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stam, David H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48978'
     url: http://www.gutenberg.org/2009/agents/48978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56678#Turgenev-in-English-A-Checklist-of-Works-by-and-about-Him
 gutenberg_issued: '2018-03-04'
 gutenberg_type: Text
 identifiers:
